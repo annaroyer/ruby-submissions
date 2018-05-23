@@ -8,7 +8,7 @@ Help people coordinate with their neighbors to get neighborhood ecopasses throug
 
 ### Problem
 
-RTD bus passes are expensive, which can deter people from using public transportation. RTD's Neighborhood EcoPass option makes them significantly more affordable (can cut the price in half or more), and the more neighbors who pitch in, the less expensive it is for everyone, but it can be challenging to coordinate and organize. 
+RTD bus passes are expensive, which can deter people from using public transportation. RTD's Neighborhood EcoPass option makes them significantly more affordable (for me, I pay ~20% of what I would have without the pass), and the more neighbors who pitch in, the less expensive it is for everyone, but it can be challenging to coordinate and organize. 
 
 ### Solution
 
@@ -82,9 +82,10 @@ I will try to use Docker to deploy the app or implement a security strategy we l
 
 You must have at least 5 of the first user stories for you app up on your board in order for this to be approved. We recommend referencing the user stories provided in Quantified Self for great examples.
 
-* Link to board:
+* [Link to board](https://www.pivotaltracker.com/n/projects/2173805)
 
 
 ### Wireframes
 
 Please provide screen shots of your wireframes for each part of your application.
+Will add asap
